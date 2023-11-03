@@ -1,0 +1,13 @@
+MainBgColor = 0xEEE9E9FF
+ColorWhite = 0xFFFFFFFF
+ColorBlack = 0x000000FF
+ColorGray = 0x696969FF
+ColorPink = 0xFF6EB4FF
+ColorYellow = 0xCD950CFF
+ColorDarkPink = 0xBC8F8FFF
+ColorMiniBlackKey = 0x6C7B8BFF
+ColorRed = 0xCD2626FF
+ColorBlue = 0x0000FFFF
+ColorNormal = 0x838B8BFF
+ColorBtnHover = 0x4876FFFF
+ColorChordPadDefault = 0x8DB6CDFF
